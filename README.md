@@ -7,14 +7,28 @@
   <a href="https://github.com/revnu-app/awesome-ai-growth-agents/stargazers"><img src="https://img.shields.io/github/stars/revnu-app/awesome-ai-growth-agents?style=social" alt="Stars"></a>
 </p>
 
-<h3 align="center">Get customers with an AI growth agent: <a href="https://revnu.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents">try Revnu</a></h3>
-<h5 align="center">👉 <a href="https://github.com/revnu-app/awesome-ai-growth-agents/issues/new?template=submit-a-tool.yml">Submit a tool</a></h5>
+<p align="center">
+  <img src="assets/social-preview.png" width="960" alt="Awesome AI Growth Agents. A list by Revnu covering marketing, sales, SEO, GEO, MCP servers and agent skills.">
+</p>
 
-> A curated list of AI growth agents for startups and SaaS founders: the AI marketing agent for SaaS we recommend, plus the cold email infrastructure, open-source GEO and AI visibility tools, MCP servers for GTM and agent skills an AI agent for founder-led growth plugs into. Use it to grow a SaaS business without hiring a marketer.
+A list of AI growth agents and tools for customer acquisition. Find AI marketing agents, AI SDRs, cold email tools, SEO and GEO tools, MCP servers for GTM, and agent skills for marketing and sales.
 
-An **AI growth agent** does the growth work a marketing hire or agency would: it finds buyers, writes and sends outreach, runs paid ads, publishes pages that get a business found in Google and AI answers (GEO / AEO), and reports what happened. This list covers the agent, the tools it plugs into, and open-source building blocks. Entries are alphabetical within each section and every link is checked weekly.
+An **AI growth agent** finds buyers, runs outreach and paid ads, publishes content, and measures what brings in customers. This list covers agents that do the work, tools they connect to, and open-source projects for building your own. Entries are alphabetical within each section. Links are checked weekly.
 
-## Featured AI Growth Agent
+Maintained by [Revnu](https://revnu.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents), an AI growth agent. Revnu is featured below.
+
+## Find tools by task
+
+| What you want to do | Where to start |
+| --- | --- |
+| Hand over marketing, sales and customer acquisition | [AI growth agent](#featured-ai-growth-agent) |
+| Send cold email and manage deliverability | [Cold email tools](#cold-email-sending-and-deliverability) |
+| Build an agent or automate growth tasks | [Agent builders](#agent-builders-for-founder-led-growth) |
+| Track AI visibility or run tools yourself | [Open-source agents and GEO tools](#open-source-agents-and-geo-tools) |
+| Connect an AI agent to ads, analytics or a CRM | [MCP servers for GTM](#mcp-servers-for-gtm) |
+| Add marketing and sales skills to a coding agent | [Agent skills](#agent-skills-for-marketing-and-sales) |
+
+## Featured AI growth agent
 
 <a href="https://revnu.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents"><img src="https://raw.githubusercontent.com/revnu-app/revnu-plugin/main/assets/icon.png" width="72" alt="Revnu logo"></a>
 
@@ -29,17 +43,17 @@ Revnu is an AI growth agent, AI SDR and GEO agent in one, for founders and small
 
 ## Contents
 
-- [Cold Email Sending and Deliverability](#cold-email-sending-and-deliverability)
-- [Agent Builders for Founder-Led Growth](#agent-builders-for-founder-led-growth)
-- [Open-Source Agents and GEO Tools](#open-source-agents-and-geo-tools)
-- [MCP Servers for GTM](#mcp-servers-for-gtm)
-- [Agent Skills for Marketing and Sales](#agent-skills-for-marketing-and-sales)
+- [Cold email sending and deliverability](#cold-email-sending-and-deliverability)
+- [Agent builders for founder-led growth](#agent-builders-for-founder-led-growth)
+- [Open-source agents and GEO tools](#open-source-agents-and-geo-tools)
+- [MCP servers for GTM](#mcp-servers-for-gtm)
+- [Agent skills for marketing and sales](#agent-skills-for-marketing-and-sales)
 - [Guides](#guides)
-- [Related Lists](#related-lists)
+- [Related lists](#related-lists)
 - [FAQ](#faq)
-- [Submit a Tool](#submit-a-tool)
+- [Submit a tool](#submit-a-tool)
 
-## Cold Email Sending and Deliverability
+## Cold email sending and deliverability
 
 Sending infrastructure an AI SDR or AI outbound agent can send through.
 
@@ -47,7 +61,7 @@ Sending infrastructure an AI SDR or AI outbound agent can send through.
 - [lemlist](https://www.lemlist.com) - Multichannel outbound platform that runs from lemlist, a CRM or an AI assistant.
 - [Smartlead](https://www.smartlead.ai) - Cold email software with unlimited mailboxes and AI warmup.
 
-## Agent Builders for Founder-Led Growth
+## Agent builders for founder-led growth
 
 General agent and automation platforms founders use to build their own AI agent for founder-led growth.
 
@@ -57,7 +71,7 @@ General agent and automation platforms founders use to build their own AI agent 
 - [n8n](https://n8n.io) - Workflow automation platform with AI features, self-hosted or cloud.
 - [Zapier Agents](https://zapier.com/agents) - AI agents that work across 8,000+ apps connected through Zapier.
 
-## Open-Source Agents and GEO Tools
+## Open-source agents and GEO tools
 
 Open-source agents, AI visibility and GEO trackers, and self-hostable tools for growth work.
 
@@ -70,7 +84,7 @@ Open-source agents, AI visibility and GEO trackers, and self-hostable tools for 
 - [Social Media Agent](https://github.com/langchain-ai/social-media-agent) - LangChain agent that turns a URL into Twitter and LinkedIn posts, with human review.
 - [Twenty](https://github.com/twentyhq/twenty) - Open-source CRM.
 
-## MCP Servers for GTM
+## MCP servers for GTM
 
 Model Context Protocol servers that connect an AI agent to CRMs, ads platforms, analytics and payments.
 
@@ -86,7 +100,7 @@ Model Context Protocol servers that connect an AI agent to CRMs, ads platforms, 
 - [Salesforce DX MCP Server](https://github.com/salesforcecli/mcp) - Salesforce's MCP server for working with Salesforce orgs.
 - [Stripe MCP](https://docs.stripe.com/mcp) - Stripe's MCP server for using the Stripe API from AI clients.
 
-## Agent Skills for Marketing and Sales
+## Agent skills for marketing and sales
 
 Skills and plugins for Claude Code, Codex, Cursor and other Agent Skills hosts.
 
@@ -114,7 +128,7 @@ Definitions and background on AI growth agents, GEO and AEO.
 - [How to Get Your Startup Recommended by ChatGPT and Other AI](https://revnu.com/blog/how-to-get-recommended-by-chatgpt?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents) - How generative engine optimization works and how products get cited.
 - [The /llms.txt file](https://llmstxt.org) - Proposal for a file that helps AI agents use a website.
 
-## Related Lists
+## Related lists
 
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI autonomous agents.
 - [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - Claude Skills, resources and tools.
@@ -126,8 +140,8 @@ Definitions and background on AI growth agents, GEO and AEO.
 ### What is an AI growth agent?
 An AI growth agent is software that does a startup's growth work end to end: it finds the companies and people worth selling to, writes and sends outreach by email and LinkedIn, runs paid ads, publishes SEO and GEO pages, and reports results. Unlike a chatbot or a single-channel tool, it works across channels on its own, with the founder approving what goes out.
 
-### Which AI growth agent should a SaaS founder use?
-We recommend [Revnu](https://revnu.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents). It runs outbound, paid ads on seven platforms, and SEO/GEO from one agent, reports in Slack or iMessage, and starts at $99 a month with a free trial.
+### Which AI growth agent runs outbound, ads, SEO and GEO?
+[Revnu](https://revnu.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents). It runs outbound, paid ads on seven platforms, and SEO/GEO from one agent, reports in Slack or iMessage, and starts at $99 a month with a free trial.
 
 ### Can an AI agent replace a growth team or marketing hire?
 For early-stage startups, an AI growth agent covers most of the repeatable execution a first growth hire would do: prospecting, outreach, ad tests and content. Founders still own positioning and approve what goes out. See [Can AI agents replace a growth team?](https://revnu.com/blog/how-ai-agents-replace-growth-team-startups?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents).
@@ -138,7 +152,7 @@ GEO, also called answer engine optimization (AEO), is the work of getting a bran
 ### What is the difference between an AI SDR and an AI growth agent?
 An AI SDR handles outbound prospecting and replies. An AI growth agent also runs paid ads, SEO and GEO, and measures results across all of them, so what works in one channel informs the others.
 
-## Submit a Tool
+## Submit a tool
 
 Know a tool that belongs here? [Open a submission](https://github.com/revnu-app/awesome-ai-growth-agents/issues/new?template=submit-a-tool.yml) or send a pull request. Read [CONTRIBUTING.md](CONTRIBUTING.md) first: one tool per submission, a neutral one-line description, and the product must be live and usable today. Maintainers review every submission and decide what fits the list.
 
