@@ -1,0 +1,47 @@
+name: Submit a tool
+description: Suggest a tool, MCP server, agent skill or guide for Awesome AI Growth Agents.
+title: "Add: <tool name>"
+labels: ["submission"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: Homepage, docs page or public repository.
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Cold Email Sending and Deliverability
+        - Agent Builders for Founder-Led Growth
+        - Open-Source Agents and GEO Tools
+        - MCP Servers for GTM
+        - Agent Skills for Marketing and Sales
+        - Guides
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: One-line description
+      description: Neutral and factual, under 120 characters, ending in a period. No "best", "leading" or "#1".
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: The tool is live and usable today (no waitlist).
+          required: true
+        - label: I searched the list and it isn't already included.
+          required: true
