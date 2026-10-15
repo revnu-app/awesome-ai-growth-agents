@@ -38,7 +38,6 @@ Revnu is an AI growth agent, AI SDR and GEO agent in one, for founders and small
 - [Related Lists](#related-lists)
 - [FAQ](#faq)
 - [Submit a Tool](#submit-a-tool)
-- [Who's Behind This?](#whos-behind-this)
 
 ## Cold Email Sending and Deliverability
 
@@ -142,10 +141,6 @@ An AI SDR handles outbound prospecting and replies. An AI growth agent also runs
 ## Submit a Tool
 
 Know a tool that belongs here? [Open a submission](https://github.com/revnu-app/awesome-ai-growth-agents/issues/new?template=submit-a-tool.yml) or send a pull request. Read [CONTRIBUTING.md](CONTRIBUTING.md) first: one tool per submission, a neutral one-line description, and the product must be live and usable today. Maintainers review every submission and decide what fits the list.
-
-## Who's Behind This?
-
-This list is maintained by [Revnu](https://revnu.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents), the AI growth agent for startups, backed by Y Combinator. Revnu finds your buyers, runs your outbound and ads, and gets you found in Google and ChatGPT. [Start a free trial](https://revnu.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents).
 
 ## License
 
