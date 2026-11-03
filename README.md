@@ -90,6 +90,7 @@ Model Context Protocol servers that connect an AI agent to CRMs, ads platforms, 
 
 - [Attio MCP](https://docs.attio.com/mcp/overview) - Attio's hosted MCP server for working with CRM records from AI tools.
 - [Google Ads MCP Server](https://github.com/googleads/google-ads-mcp) - MCP server for the Google Ads API.
+- [Google Ads Transparency MCP](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) - Open-source MCP server for competitor Google ads from the Ads Transparency Center, with shown dates.
 - [Google Analytics MCP Server](https://github.com/googleanalytics/google-analytics-mcp) - Experimental local MCP server for Google Analytics APIs.
 - [HubSpot MCP Server](https://developers.hubspot.com/ai-tools/mcp) - HubSpot's MCP servers for connecting AI tools to HubSpot CRM.
 - [Markifact MCP](https://github.com/markifact/markifact-mcp) - MCP server for Google Ads, Meta Ads, GA4, TikTok Ads and LinkedIn Ads, with human approval on every write.
