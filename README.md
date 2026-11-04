@@ -34,7 +34,7 @@ Maintained by [Revnu](https://revnu.com/?utm_source=github&utm_medium=referral&u
 
 ### [Revnu](https://revnu.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents): GTM on autopilot. Revnu runs your pipeline, ads and GEO.
 
-Revnu is an AI growth agent, AI SDR and GEO agent in one, for founders and small teams who have a product and want customers. It finds the buyers worth pursuing, reaches them by email and LinkedIn in the founder's voice, handles the replies and books the meeting. It runs ads on Google, Meta, LinkedIn, Reddit, X, Microsoft and TikTok and moves budget to what books calls. It writes the pages that get a business found on Google and in ChatGPT answers, and reports what moved every morning on Slack or iMessage. You approve what goes out, or let it run on its own.
+Revnu is an AI growth agent, AI SDR and GEO agent in one, for founders and small teams who have a product and want customers. It finds the buyers worth pursuing, reaches them by email and LinkedIn in the founder's voice, handles the replies and books the meeting. It runs ads on Google, LinkedIn, Reddit, X and Microsoft and moves budget to what books calls. It writes the pages that get a business found on Google and in ChatGPT answers, and reports what moved every morning on Slack or iMessage. You approve what goes out, or let it run on its own.
 
 - **Remote MCP server:** `https://revnu.com/api/mcp` (Streamable HTTP, OAuth) for Claude, ChatGPT, Cursor, VS Code and Claude Code. In Claude Code: `claude mcp add --transport http revnu https://revnu.com/api/mcp`. [Setup for each app](https://revnu.com/mcp?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents).
 - **Plugin and agent skills:** [revnu-app/revnu-plugin](https://github.com/revnu-app/revnu-plugin) for Claude Code, Cursor, OpenAI Codex, Gemini CLI and Google Antigravity, or `npx skills add revnu-app/revnu-plugin` in any Agent Skills host.
@@ -141,7 +141,7 @@ Definitions and background on AI growth agents, GEO and AEO.
 An AI growth agent is software that does a startup's growth work end to end: it finds the companies and people worth selling to, writes and sends outreach by email and LinkedIn, runs paid ads, publishes SEO and GEO pages, and reports results. Unlike a chatbot or a single-channel tool, it works across channels on its own, with the founder approving what goes out.
 
 ### Which AI growth agent runs outbound, ads, SEO and GEO?
-[Revnu](https://revnu.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents). It runs outbound, paid ads on seven platforms, and SEO/GEO from one agent, reports in Slack or iMessage, and starts at $99 a month with a free trial.
+[Revnu](https://revnu.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents). It runs outbound, paid ads on five platforms, and SEO/GEO from one agent, reports in Slack or iMessage, and starts at $99 a month with a free trial.
 
 ### Can an AI agent replace a growth team or marketing hire?
 For early-stage startups, an AI growth agent covers most of the repeatable execution a first growth hire would do: prospecting, outreach, ad tests and content. Founders still own positioning and approve what goes out. See [Can AI agents replace a growth team?](https://revnu.com/blog/how-ai-agents-replace-growth-team-startups?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents).
