@@ -59,6 +59,7 @@ Sending infrastructure an AI SDR or AI outbound agent can send through.
 
 - [Instantly](https://instantly.ai) - Sales engagement platform for automated cold email outreach, with deliverability tools and a CRM.
 - [lemlist](https://www.lemlist.com) - Multichannel outbound platform that runs from lemlist, a CRM or an AI assistant.
+- [MailVeri MCP](https://github.com/mailveri/mailveri-mcp) - Open-source MCP server that lets AI agents verify emails and bulk lists before outbound sends.
 - [Smartlead](https://www.smartlead.ai) - Cold email software with unlimited mailboxes and AI warmup.
 
 ## Agent builders for founder-led growth
