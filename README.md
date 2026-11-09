@@ -59,7 +59,6 @@ Sending infrastructure an AI SDR or AI outbound agent can send through.
 
 - [Instantly](https://instantly.ai) - Sales engagement platform for automated cold email outreach, with deliverability tools and a CRM.
 - [lemlist](https://www.lemlist.com) - Multichannel outbound platform that runs from lemlist, a CRM or an AI assistant.
-- [MailVeri MCP](https://github.com/mailveri/mailveri-mcp) - Open-source MCP server that lets AI agents verify emails and bulk lists before outbound sends.
 - [Smartlead](https://www.smartlead.ai) - Cold email software with unlimited mailboxes and AI warmup.
 
 ## Agent builders for founder-led growth
@@ -93,6 +92,7 @@ Model Context Protocol servers that connect an AI agent to CRMs, ads platforms, 
 - [Google Ads MCP Server](https://github.com/googleads/google-ads-mcp) - MCP server for the Google Ads API.
 - [Google Analytics MCP Server](https://github.com/googleanalytics/google-analytics-mcp) - Experimental local MCP server for Google Analytics APIs.
 - [HubSpot MCP Server](https://developers.hubspot.com/ai-tools/mcp) - HubSpot's MCP servers for connecting AI tools to HubSpot CRM.
+- [MailVeri MCP](https://github.com/mailveri/mailveri-mcp) - Open-source MCP server that lets AI agents verify emails and bulk lists before outbound sends.
 - [Markifact MCP](https://github.com/markifact/markifact-mcp) - MCP server for Google Ads, Meta Ads, GA4, TikTok Ads and LinkedIn Ads, with human approval on every write.
 - [mcp-gsc](https://github.com/AminForou/mcp-gsc) - MCP server for Google Search Console data.
 - [Meta Ads MCP](https://github.com/pipeboard-co/meta-ads-mcp) - MCP server for Meta Ads (Facebook and Instagram), with a hosted option.
