@@ -112,6 +112,7 @@ Skills and plugins for Claude Code, Codex, Cursor and other Agent Skills hosts.
 - [Claude SEO](https://github.com/AgriciDaniel/claude-seo) - SEO skill for Claude Code covering technical SEO, schema, GEO/AEO and llms.txt.
 - [GTM Agents](https://github.com/gtmagents/gtm-agents) - Claude Code agents and skills for sales, marketing, customer success and RevOps work.
 - [Knowledge Work Plugins](https://github.com/anthropics/knowledge-work-plugins) - Anthropic's open-source plugins for Claude, including marketing and sales plugins.
+- [LeadSets GTM Skills](https://github.com/leadsets/leadsets-skills) - 50 open-source GTM skills for prospecting, enrichment and CRM hygiene with Unlimited B2B Contact Data.
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents covering CRO, copywriting, SEO, analytics and growth engineering.
 - [Revnu Plugin](https://github.com/revnu-app/revnu-plugin) - Revnu plugin and agent skills, one skill per growth task, for Claude Code, Cursor, Codex, Gemini CLI and Antigravity.
 
