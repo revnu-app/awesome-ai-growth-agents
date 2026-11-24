@@ -89,6 +89,7 @@ Open-source agents, AI visibility and GEO trackers, and self-hostable tools for 
 Model Context Protocol servers that connect an AI agent to CRMs, ads platforms, analytics and payments.
 
 - [Attio MCP](https://docs.attio.com/mcp/overview) - Attio's hosted MCP server for working with CRM records from AI tools.
+- [Company Social MCP](https://github.com/GeminiGeorge22/company-social-mcp) - Open-source MCP server that finds a company's LinkedIn, X, YouTube, Instagram and Facebook links.
 - [Google Ads MCP Server](https://github.com/googleads/google-ads-mcp) - MCP server for the Google Ads API.
 - [Google Analytics MCP Server](https://github.com/googleanalytics/google-analytics-mcp) - Experimental local MCP server for Google Analytics APIs.
 - [HubSpot MCP Server](https://developers.hubspot.com/ai-tools/mcp) - HubSpot's MCP servers for connecting AI tools to HubSpot CRM.
