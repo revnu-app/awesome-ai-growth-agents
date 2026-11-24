@@ -98,6 +98,7 @@ Model Context Protocol servers that connect an AI agent to CRMs, ads platforms, 
 - [PostHog MCP](https://posthog.com/docs/model-context-protocol) - Hosted MCP server for using PostHog from AI agents.
 - [Revnu MCP](https://revnu.com/mcp?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-growth-agents) - Remote MCP server for Revnu: review and approve work, hand over jobs and read results by channel.
 - [Salesforce DX MCP Server](https://github.com/salesforcecli/mcp) - Salesforce's MCP server for working with Salesforce orgs.
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Searches Skool communities by keyword, with member counts, pricing and ratings.
 - [Stripe MCP](https://docs.stripe.com/mcp) - Stripe's MCP server for using the Stripe API from AI clients.
 
 ## Agent skills for marketing and sales
